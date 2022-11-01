@@ -1,0 +1,2 @@
+feed_id,feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_ext_version
+BKK,BKK Zrt.,https://www.bkk.hu,hu,20221101,20221201,0482.20221101,fL3141-i46-b20221031-h457-20221101-s330-20221101
